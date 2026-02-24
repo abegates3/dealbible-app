@@ -4,7 +4,7 @@ export default function Home() {
       <div className="max-w-xl w-full space-y-4">
         <h1 className="text-4xl font-bold">DealBible</h1>
         <p className="text-lg text-gray-600">
-          Hot reload test: if you see this change, you’re good.
+          Login to create and analyze deals.
         </p>
       </div>
     </main>
